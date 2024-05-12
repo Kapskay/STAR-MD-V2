@@ -7,14 +7,14 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = ['2347045035241', 'Excel', true]
+global.owner = ['260760431115', 'Excel', true]
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2347045035241'] 
-global.prems = ['2347045035241']
-global.allowed = ['2347045035241']
+global.mods = ['260760431115'] 
+global.prems = ['260760431115']
+global.allowed = ['260760431115']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-V2'
+global.botname = 'G-O-A-T🐐'
 global.premium = 'true'
-global.packname = 'EX-BOTS_TEAM' 
-global.author = '@EXCEL' 
+global.packname = 'Creation' 
+global.author = 'Nipsy'sy' 
 global.menuvid = 'https://i.imgur.com/p7sdeTT.mp4'
 global.igfg = '▢✓ Follow My channel_ https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
@@ -71,7 +71,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '2' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
